@@ -1,0 +1,8 @@
+{
+    "luau-lsp.autocompleteEnd": true,
+    "luau-lsp.completion.suggestImports": false,
+    "luau-lsp.plugin.enabled": true,
+    "robloxLsp.diagnostics.disable": [
+        1022
+    ]
+}
